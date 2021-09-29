@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="pending-goods-confirm-return" transform="translate(0 -23)">
+    <rect id="Rectangle_776" data-name="Rectangle 776" width="21" height="21" transform="translate(0 23)" fill="none"/>
+    <path id="Path_1109" data-name="Path 1109" d="M10.5,2A8.5,8.5,0,1,0,19,10.5,8.5,8.5,0,0,0,10.5,2Zm0,15.3a6.8,6.8,0,1,1,6.8-6.8A6.809,6.809,0,0,1,10.5,17.3Zm1.7-8.5H6.25v1.7H12.2Zm0-2.55H6.25v1.7H12.2Zm-5.95,6.8H8.8v-1.7H6.25Zm10.2-1.7v1.7h-1.7v1.7h-1.7v-1.7h-1.7v-1.7h1.7V9.65h1.7v1.7Z" transform="translate(0 24)" fill="#fff"/>
+  </g>
+</svg>

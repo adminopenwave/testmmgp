@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="icons_-_draft" data-name="icons - draft" transform="translate(8 14.038)">
+    <g id="file_draft" data-name="file draft">
+      <rect id="Rectangle_772" data-name="Rectangle 772" width="60" height="60" rx="10" transform="translate(-8 -14.038)" fill="#fff1ce"/>
+      <g id="Draftt" transform="translate(6 -0.038)">
+        <g id="Group_1206" data-name="Group 1206" transform="translate(4.103 16.751)">
+          <rect id="Rectangle_759" data-name="Rectangle 759" width="7.83" height="0.795" fill="#ffb70e"/>
+          <rect id="Rectangle_765" data-name="Rectangle 765" width="22.446" height="0.795" transform="translate(0 6.843)" fill="#ffb70e"/>
+          <rect id="Rectangle_770" data-name="Rectangle 770" width="22.446" height="0.795" transform="translate(0 3.653)" fill="#ffb70e"/>
+          <rect id="Rectangle_766" data-name="Rectangle 766" width="22.446" height="0.795" transform="translate(0 9.943)" fill="#ffb70e"/>
+          <rect id="Rectangle_767" data-name="Rectangle 767" width="5.286" height="0.795" transform="translate(8.745 13.043)" fill="#ffb70e"/>
+        </g>
+        <path id="Path_1077" data-name="Path 1077" d="M16.507,4H5.224A3.223,3.223,0,0,0,2,7.223V29.78A3.223,3.223,0,0,0,5.224,33H27.79a3.223,3.223,0,0,0,3.224-3.223V18.5" transform="translate(-2 -0.486)" fill="none" stroke="#ffb70e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_1084" data-name="Path 1084" d="M18.088,2.476A2.038,2.038,0,0,1,20.97,5.358l-9.127,9.127L8,15.445,8.961,11.6Z" transform="translate(10.505 -1.879)" fill="none" stroke="#ffb70e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

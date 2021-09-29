@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="icons_-_pending" data-name="icons - pending" transform="translate(8.398 5)">
+    <rect id="Rectangle_773" data-name="Rectangle 773" width="60" height="60" rx="10" transform="translate(-8.398 -5)" fill="#f0cdfa"/>
+    <g id="Pending" transform="translate(-146.815 11.715)">
+      <g id="Group_1206" data-name="Group 1206" transform="translate(156.432 13.487)">
+        <rect id="Rectangle_759" data-name="Rectangle 759" width="7.662" height="0.778" transform="translate(0 0)" fill="#b207e5"/>
+        <rect id="Rectangle_765" data-name="Rectangle 765" width="21.964" height="0.778" transform="translate(0 6.696)" fill="#b207e5"/>
+        <rect id="Rectangle_770" data-name="Rectangle 770" width="21.964" height="0.778" transform="translate(0 3.575)" fill="#b207e5"/>
+        <rect id="Rectangle_766" data-name="Rectangle 766" width="21.964" height="0.778" transform="translate(0 9.73)" fill="#b207e5"/>
+        <rect id="Rectangle_767" data-name="Rectangle 767" width="5.172" height="0.778" transform="translate(8.557 12.763)" fill="#b207e5"/>
+      </g>
+      <path id="Path_1077" data-name="Path 1077" d="M16.588,4H5.242A3.242,3.242,0,0,0,2,7.242V29.934a3.242,3.242,0,0,0,3.242,3.242H27.934a3.242,3.242,0,0,0,3.242-3.242V18.588" transform="translate(150.417 -4.261)" fill="none" stroke="#b207e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="clock_2_" data-name="clock (2)" transform="translate(171.307 -3.917)">
+        <circle id="Ellipse_59" data-name="Ellipse 59" cx="7.134" cy="7.134" r="7.134" transform="translate(0 0)" fill="none" stroke="#b207e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_1081" data-name="Path 1081" d="M12,6v5.111l3.407,1.7" transform="translate(-5.165 -3.56)" fill="none" stroke="#b207e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

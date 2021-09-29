@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="icons_-_revision" data-name="icons - revision" transform="translate(8.398 5)">
+    <rect id="Rectangle_773" data-name="Rectangle 773" width="60" height="60" rx="10" transform="translate(-8.398 -5)" fill="#d7e6ff"/>
+    <g id="Revision" transform="translate(-146.815 12.013)">
+      <g id="Group_1206" data-name="Group 1206" transform="translate(156.413 13.905)">
+        <rect id="Rectangle_759" data-name="Rectangle 759" width="7.624" height="0.774" fill="#0083c2"/>
+        <rect id="Rectangle_765" data-name="Rectangle 765" width="21.857" height="0.774" transform="translate(0 6.663)" fill="#0083c2"/>
+        <rect id="Rectangle_770" data-name="Rectangle 770" width="21.857" height="0.774" transform="translate(0 3.557)" fill="#0083c2"/>
+        <rect id="Rectangle_766" data-name="Rectangle 766" width="21.857" height="0.774" transform="translate(0 9.682)" fill="#0083c2"/>
+        <rect id="Rectangle_767" data-name="Rectangle 767" width="5.147" height="0.774" transform="translate(8.515 12.7)" fill="#0083c2"/>
+      </g>
+      <path id="Path_1077" data-name="Path 1077" d="M16.517,4H5.226A3.226,3.226,0,0,0,2,7.226V29.808a3.226,3.226,0,0,0,3.226,3.226H27.808a3.226,3.226,0,0,0,3.226-3.226V18.517" transform="translate(150.417 -3.776)" fill="none" stroke="#3981ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="refresh-cw" transform="translate(171.218 -3.013)">
+        <path id="Path_1078" data-name="Path 1078" d="M21.007,4V8.007H17" transform="translate(-6.808 -3.334)" fill="none" stroke="#0083c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_1079" data-name="Path 1079" d="M1,18.007V14H5.007" transform="translate(-1 -6.655)" fill="none" stroke="#3981ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_1080" data-name="Path 1080" d="M2.62,7.008A5.881,5.881,0,0,1,6.814,3.151,5.68,5.68,0,0,1,12.2,4.764L15.2,7.676M1,10.347l2.995,2.912a5.68,5.68,0,0,0,5.39,1.613,5.881,5.881,0,0,0,4.194-3.857" transform="translate(-1 -3.002)" fill="none" stroke="#3981ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

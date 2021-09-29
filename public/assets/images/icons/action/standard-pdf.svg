@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.638" height="22.798" viewBox="0 0 18.638 22.798">
+  <g id="standard-pdf" transform="translate(-876 -337.334)">
+    <g id="file-text" transform="translate(873 336.334)">
+      <path id="Path_1127" data-name="Path 1127" d="M14.4,2H6.08A2.08,2.08,0,0,0,4,4.08V20.718A2.08,2.08,0,0,0,6.08,22.8H18.558a2.08,2.08,0,0,0,2.08-2.08V8.239Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_1128" data-name="Path 1128" d="M14,2V8.239h6.239" transform="translate(0.399)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <text id="pdf" transform="translate(880 353)" fill="#fff" font-size="6" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">PDF</tspan></text>
+  </g>
+</svg>
